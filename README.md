@@ -3,9 +3,12 @@ combative chat for lua chat system
 
 set a team's attribute "Combat" to a truthy value for it to work
 
-`/c combat msg`
+`/c combat`
+
 `/cc msg`
+
 `/combat msg`
+
 `# msg`
 
 feel free to use, no restrictions
